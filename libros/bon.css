@@ -1,0 +1,66 @@
+.a1{
+    width: 15%;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(190, 77, 225);
+    font-size: 20px;
+}
+.a1:hover{
+    font-size:30px;
+    background-color: rgb(244, 244, 244);
+}
+.titulo1{
+    margin-left: 35%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(3, 58, 255);
+    text-shadow: 2px 2px red;
+
+}
+label{
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    margin-left: 45%;
+    font-size: 25px;
+}
+input{
+    margin-left: 45%;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: #09ff00;
+}
+select{
+    padding: 10px;
+    margin-left: 45%;
+    border-radius: 5px;
+    border-color: #09ff00;
+}
+.boton{
+    margin-left: 49%;
+}
+.a2{
+    width: 5%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(90, 255, 208);
+    font-size: 20px;
+}
+.a2:hover{
+    font-size:15px;
+    background-color: aliceblue;
+}
+p{
+    margin-left: 20%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(3, 58, 255);
+    text-shadow: 2px 2px red;
+}
+.p1{
+    margin-left: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px rgb(250, 169, 169);
+}

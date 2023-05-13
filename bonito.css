@@ -1,0 +1,73 @@
+#customers{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+#customers td, #customers th{
+    border: 1px solid rgb(17, 255, 0);
+    padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover{background-color: coral;}
+
+#customers th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:rgb(130, 0, 0);
+    color: white;
+}
+.a1{
+    width: 15%;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(190, 77, 225);
+    font-size: 20px;
+}
+.a1:hover{
+    font-size:30px;
+    background-color: rgb(244, 244, 244);
+}
+.titulo1{
+    margin-left: 35%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(3, 58, 255);
+    text-shadow: 2px 2px red;
+
+}
+label{
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    margin-left: 45%;
+    font-size: 25px;
+}
+input{
+    margin-left: 45%;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: #09ff00;
+}
+select{
+    padding: 10px;
+    margin-left: 45%;
+    border-radius: 5px;
+    border-color: #09ff00;
+}
+.boton{
+    margin-left: 49%;
+}
+.a2{
+    width: 5%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(90, 255, 208);
+    font-size: 20px;
+}
+.a2:hover{
+    font-size:15px;
+    background-color: aliceblue;
+}
